@@ -1,0 +1,15 @@
+#frog {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    background: url(./frog.png);
+    border-radius: 30px;
+  }
+
+  #target {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    background: url(./target.png);
+    border-radius: 30px;
+  }
