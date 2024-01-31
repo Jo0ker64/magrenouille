@@ -1,9 +1,10 @@
 #frog {
     position: absolute;
-    width: 500px;
-    height: 500px;
+    width: 100px;
+    height: 100px;
     background: url(./frog.png);
-    border-radius: 30px;
+    border-radius: 40px;
+    background-repeat: no-repeat;
   }
 
   #target {
@@ -11,5 +12,6 @@
     width: 500px;
     height: 500px;
     background: url(./target.png);
-    border-radius: 30px;
+    border-radius: 40px;
+    background-repeat: no-repeat;
   }
